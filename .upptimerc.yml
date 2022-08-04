@@ -6,20 +6,12 @@ sites:                      # List of Endpoints to track
     url: $URL_RH_MAIN
     assignees:
       - rabenherz112
-  - name: Ravenhub URL Shortner (Frontend)
-    url: $URL_RH_URL_RAVSHORT
-    assignees:
-      - rabenherz112
-  - name: Ravenhub URL Shortner (Backend)
+  - name: Ravenhub URL Shortner
     url: $URL_RH_URL
     assignees:
       - rabenherz112
   - name: Ravenhub Builderman (Website)
     url: $URL_RH_BUILDER
-    assignees:
-      - rabenherz112
-  - name: Ravenhub Dropbox
-    url: $URL_RH_URL_DROPBOX
     assignees:
       - rabenherz112
   - name: Ravenhub ShareX
@@ -29,16 +21,19 @@ sites:                      # List of Endpoints to track
   - name: VS-NETCUP-01 (Server)
     check: "tcp-ping"
     url: $URL_VS_NETCUP01
+    port: $P_VS_NETCUP01
     assignees:
       - rabenherz112
   - name: VS-STRATO-01 (Server)
     check: "tcp-ping"
     url: $URL_VS_STRATO01
+    port: $P_VS_STRATO01
     assignees:
       - rabenherz112
   - name: VS-LIS-HETZNER01 (Server)
     check: "tcp-ping"
     url: $URL_VS_LIS_HETZNER01
+    port: $P_VS_LIS_HETZNER01
     assignees:
       - lischetzke
 
