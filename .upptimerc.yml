@@ -29,19 +29,16 @@ sites:                      # List of Endpoints to track
   - name: VS-NETCUP-01 (Server)
     check: "tcp-ping"
     url: $URL_VS_NETCUP01
-    port: 53
     assignees:
       - rabenherz112
   - name: VS-STRATO-01 (Server)
     check: "tcp-ping"
     url: $URL_VS_STRATO01
-    port: 53
     assignees:
       - rabenherz112
   - name: VS-LIS-HETZNER01 (Server)
     check: "tcp-ping"
     url: $URL_VS_LIS_HETZNER01
-    port: 53
     assignees:
       - lischetzke
 
