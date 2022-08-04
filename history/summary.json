@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 902,
-    "timeDay": 902,
-    "timeWeek": 902,
-    "timeMonth": 902,
-    "timeYear": 902,
+    "time": 981,
+    "timeDay": 981,
+    "timeWeek": 981,
+    "timeMonth": 981,
+    "timeYear": 981,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "$URL_RH_URL_RAVSHORT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ravenhub-url-shortner-frontend",
-    "status": "down",
-    "uptime": "52.76%",
-    "uptimeDay": "52.76%",
-    "uptimeWeek": "52.76%",
-    "uptimeMonth": "52.76%",
-    "uptimeYear": "52.76%",
-    "time": 414,
-    "timeDay": 414,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "status": "up",
+    "uptime": "40.87%",
+    "uptimeDay": "40.87%",
+    "uptimeWeek": "40.87%",
+    "uptimeMonth": "40.87%",
+    "uptimeYear": "40.87%",
+    "time": 466,
+    "timeDay": 466,
+    "timeWeek": 466,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {
-      "2022-08-04": 11
+      "2022-08-04": 23
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 249,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1139,
-    "timeDay": 1139,
-    "timeWeek": 1139,
-    "timeMonth": 1139,
-    "timeYear": 1139,
+    "time": 1363,
+    "timeDay": 1363,
+    "timeWeek": 1363,
+    "timeMonth": 1363,
+    "timeYear": 1363,
     "dailyMinutesDown": {}
   },
   {
@@ -78,19 +78,19 @@
     "url": "$URL_RH_URL_DROPBOX",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ravenhub-dropbox",
-    "status": "down",
-    "uptime": "52.85%",
-    "uptimeDay": "52.85%",
-    "uptimeWeek": "52.85%",
-    "uptimeMonth": "52.85%",
-    "uptimeYear": "52.85%",
-    "time": 142,
-    "timeDay": 142,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "status": "up",
+    "uptime": "40.76%",
+    "uptimeDay": "40.76%",
+    "uptimeWeek": "40.76%",
+    "uptimeMonth": "40.76%",
+    "uptimeYear": "40.76%",
+    "time": 148,
+    "timeDay": 148,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-08-04": 11
+      "2022-08-04": 23
     }
   },
   {
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-04": 22
+      "2022-08-04": 38
     }
   },
   {
@@ -119,18 +119,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vs-netcup-01-server",
     "status": "down",
-    "uptime": "5.68%",
-    "uptimeDay": "5.68%",
-    "uptimeWeek": "5.68%",
-    "uptimeMonth": "5.68%",
-    "uptimeYear": "5.68%",
+    "uptime": "3.31%",
+    "uptimeDay": "3.31%",
+    "uptimeWeek": "3.31%",
+    "uptimeMonth": "3.31%",
+    "uptimeYear": "3.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-04": 21
+      "2022-08-04": 37
     }
   },
   {
@@ -139,18 +139,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vs-strato-01-server",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-04": 21
+      "2022-08-04": 37
     }
   },
   {
@@ -159,18 +159,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vs-lis-hetzner-01-server",
     "status": "down",
-    "uptime": "6.01%",
-    "uptimeDay": "6.01%",
-    "uptimeWeek": "6.01%",
-    "uptimeMonth": "6.01%",
-    "uptimeYear": "6.01%",
+    "uptime": "3.39%",
+    "uptimeDay": "3.39%",
+    "uptimeWeek": "3.39%",
+    "uptimeMonth": "3.39%",
+    "uptimeYear": "3.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-04": 20
+      "2022-08-04": 36
     }
   }
 ]
