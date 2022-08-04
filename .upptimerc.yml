@@ -1,31 +1,65 @@
-# Change these first
-owner: rabenherz112 # Your GitHub organization or username, where this repository lives
-repo: uptime-monitor # The name of this repository
+owner: rabenherz112         # GitHub username
+repo: uptime-monitor        # GitHub repository name
 
-sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+sites:                      # List of Endpoints to track
+  - name: Ravenhub (Main Page)
+    url: https://theravenhub.com
+    assignees:
+      - rabenherz112
+  - name: Ravenhub URL Shortner (Frontend)
+    url: ravshort.com
+    assignees:
+      - rabenherz112
+  - name: Ravenhub URL Shortner (Backend)
+    url: utility.theravenhub.com/url/
+    assignees:
+      - rabenherz112
+  - name: Ravenhub Builderman (Website)
+    url: https://builderman.theravenhub.com
+    assignees:
+      - rabenherz112
+  - name: Ravenhub Dropbox
+    url: https://utility.theravenhub.com/dropbox/
+    assignees:
+      - rabenherz112
+  - name: Ravenhub ShareX
+    url: https://image.theravenhub.com/uptime-check.txt
+    assignees:
+      - rabenherz112
+  - name: VS-NETCUP-01 (Server)
+    check: "tcp-ping"
+    url: 89.58.42.232
+    port: 53
+    assignees:
+      - rabenherz112
+  - name: VS-STRATO-01 (Server)
+    check: "tcp-ping"
+    url: 81.169.202.194
+    port: 53
+    assignees:
+      - rabenherz112
+  - name: VS-LIS-HETZNER01 (Server)
+    check: "tcp-ping"
+    url: 37.24.57.10
+    port: 53
+    assignees:
+      - lischetzke
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.theravenhub.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://media.discordapp.net/attachments/731166978806644827/887707966520840202/L2.png
+  logoUrl: https://media.discordapp.net/attachments/731166978806644827/887707966520840202/L2.png
   name: Ravenhub Monitoring Service
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: dark
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
+    - title: URL Shortner
+      href: https://utility.theravenhub.com/url/
+    - title: Builderman
+      href: https://builderman.theravenhub.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
