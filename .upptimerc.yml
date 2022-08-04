@@ -50,7 +50,7 @@ status-website:
   favicon: https://media.discordapp.net/attachments/731166978806644827/887707966520840202/L2.png
   logoUrl: https://media.discordapp.net/attachments/731166978806644827/887707966520840202/L2.png
   name: Ravenhub Monitoring Service
-  theme: dark
+  theme: night
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
