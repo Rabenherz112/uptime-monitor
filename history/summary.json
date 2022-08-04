@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 791,
-    "timeWeek": 791,
-    "timeMonth": 791,
-    "timeYear": 791,
+    "time": 902,
+    "timeDay": 902,
+    "timeWeek": 902,
+    "timeMonth": 902,
+    "timeYear": 902,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "$URL_RH_URL_RAVSHORT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ravenhub-url-shortner-frontend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 530,
-    "timeWeek": 530,
-    "timeMonth": 530,
-    "timeYear": 530,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "53.21%",
+    "uptimeDay": "53.21%",
+    "uptimeWeek": "53.21%",
+    "uptimeMonth": "53.21%",
+    "uptimeYear": "53.21%",
+    "time": 414,
+    "timeDay": 414,
+    "timeWeek": 414,
+    "timeMonth": 414,
+    "timeYear": 414,
+    "dailyMinutesDown": {
+      "2022-08-04": 10
+    }
   },
   {
     "name": "Ravenhub URL Shortner (Backend)",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 276,
-    "timeWeek": 276,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "time": 249,
+    "timeDay": 249,
+    "timeWeek": 249,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1100,
-    "timeDay": 1100,
-    "timeWeek": 1100,
-    "timeMonth": 1100,
-    "timeYear": 1100,
+    "time": 1139,
+    "timeDay": 1139,
+    "timeWeek": 1139,
+    "timeMonth": 1139,
+    "timeYear": 1139,
     "dailyMinutesDown": {}
   },
   {
@@ -76,18 +78,20 @@
     "url": "$URL_RH_URL_DROPBOX",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ravenhub-dropbox",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 120,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "53.23%",
+    "uptimeDay": "53.23%",
+    "uptimeWeek": "53.23%",
+    "uptimeMonth": "53.23%",
+    "uptimeYear": "53.23%",
+    "time": 142,
+    "timeDay": 142,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
+    "dailyMinutesDown": {
+      "2022-08-04": 10
+    }
   },
   {
     "name": "Ravenhub ShareX",
@@ -95,18 +99,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ravenhub-share-x",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-04": 11
+      "2022-08-04": 22
     }
   },
   {
@@ -115,18 +119,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vs-netcup-01-server",
     "status": "down",
-    "uptime": "11.87%",
-    "uptimeDay": "11.87%",
-    "uptimeWeek": "11.87%",
-    "uptimeMonth": "11.87%",
-    "uptimeYear": "11.87%",
+    "uptime": "5.75%",
+    "uptimeDay": "5.75%",
+    "uptimeWeek": "5.75%",
+    "uptimeMonth": "5.75%",
+    "uptimeYear": "5.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-04": 9
+      "2022-08-04": 21
     }
   },
   {
@@ -135,18 +139,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vs-strato-01-server",
     "status": "down",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-04": 9
+      "2022-08-04": 21
     }
   },
   {
@@ -155,18 +159,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vs-lis-hetzner-01-server",
     "status": "down",
-    "uptime": "13.50%",
-    "uptimeDay": "13.50%",
-    "uptimeWeek": "13.50%",
-    "uptimeMonth": "13.50%",
-    "uptimeYear": "13.50%",
+    "uptime": "6.02%",
+    "uptimeDay": "6.02%",
+    "uptimeWeek": "6.02%",
+    "uptimeMonth": "6.02%",
+    "uptimeYear": "6.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-04": 8
+      "2022-08-04": 20
     }
   }
 ]
