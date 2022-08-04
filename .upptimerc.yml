@@ -3,44 +3,44 @@ repo: uptime-monitor        # GitHub repository name
 
 sites:                      # List of Endpoints to track
   - name: Ravenhub (Main Page)
-    url: https://theravenhub.com
+    url: $URL_RH_MAIN
     assignees:
       - rabenherz112
   - name: Ravenhub URL Shortner (Frontend)
-    url: ravshort.com
+    url: $URL_RH_URL_RAVSHORT
     assignees:
       - rabenherz112
   - name: Ravenhub URL Shortner (Backend)
-    url: utility.theravenhub.com/url/
+    url: $URL_RH_URL
     assignees:
       - rabenherz112
   - name: Ravenhub Builderman (Website)
-    url: https://builderman.theravenhub.com
+    url: $URL_RH_BUILDER
     assignees:
       - rabenherz112
   - name: Ravenhub Dropbox
-    url: https://utility.theravenhub.com/dropbox/
+    url: $URL_RH_URL_DROPBOX
     assignees:
       - rabenherz112
   - name: Ravenhub ShareX
-    url: https://image.theravenhub.com/uptime-check.txt
+    url: $URL_RH_SHAREX
     assignees:
       - rabenherz112
   - name: VS-NETCUP-01 (Server)
     check: "tcp-ping"
-    url: 89.58.42.232
+    url: $URL_VS_NETCUP01
     port: 53
     assignees:
       - rabenherz112
   - name: VS-STRATO-01 (Server)
     check: "tcp-ping"
-    url: 81.169.202.194
+    url: $URL_VS_STRATO01
     port: 53
     assignees:
       - rabenherz112
   - name: VS-LIS-HETZNER01 (Server)
     check: "tcp-ping"
-    url: 37.24.57.10
+    url: $URL_VS_LIS_HETZNER01
     port: 53
     assignees:
       - lischetzke
