@@ -63,3 +63,15 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+commitMessages:
+  commitAuthorName: "Ravenhub Systems"
+  commitAuthorEmail: "uptime@theravenhub.com"
+
+workflowSchedule:
+  graphs: "0 */12 * * *"
+  responseTime: "0 */12 * * *"
+  staticSite: "*/30 * * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 */12 * * *"
+  updates: "*/10 * * * *"
+  uptime: "*/5 * * * *"
