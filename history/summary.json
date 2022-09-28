@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2022-09-28": 615,
+      "2022-09-28": 616,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
@@ -163,18 +163,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lis-infra-lm",
     "status": "down",
-    "uptime": "46.08%",
-    "uptimeDay": "46.08%",
-    "uptimeWeek": "46.08%",
-    "uptimeMonth": "46.08%",
-    "uptimeYear": "46.08%",
+    "uptime": "41.51%",
+    "uptimeDay": "41.51%",
+    "uptimeWeek": "41.51%",
+    "uptimeMonth": "41.51%",
+    "uptimeYear": "41.51%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-28": 1
+      "2022-09-28": 2
     }
   },
   {
