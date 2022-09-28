@@ -30,10 +30,16 @@ sites:                      # List of Endpoints to track
     port: $P_VS_STRATO01
     assignees:
       - rabenherz112
-  - name: VS-LIS-HETZNER01 (Server)
+  - name: LIS-INFRA (LM)
     check: "tcp-ping"
     url: $URL_VS_LIS_HETZNER01
     port: $P_VS_LIS_HETZNER01
+    assignees:
+      - lischetzke
+  - name: VS-LIS-HETZNER01 (Server)
+    check: "tcp-ping"
+    url: $URL_LIS_LM
+    port: $P_URL_LIS_LM
     assignees:
       - lischetzke
 
