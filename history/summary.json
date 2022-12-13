@@ -6,18 +6,16 @@
     "slug": "ravenhub-main-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1200,
     "timeDay": 6856,
     "timeWeek": 2200,
     "timeMonth": 1256,
     "timeYear": 1200,
-    "dailyMinutesDown": {
-      "2022-12-13": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ravenhub URL Shortner",
@@ -62,19 +60,19 @@
     "url": "$URL_RH_SHAREX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ravenhub-share-x",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 260,
-    "timeWeek": 348,
-    "timeMonth": 371,
-    "timeYear": 378,
+    "uptimeYear": "99.99%",
+    "time": 429,
+    "timeDay": 4845,
+    "timeWeek": 1259,
+    "timeMonth": 598,
+    "timeYear": 429,
     "dailyMinutesDown": {
-      "2022-12-13": 7
+      "2022-12-13": 11
     }
   },
   {
@@ -190,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-13": 1248,
+      "2022-12-13": 1253,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
