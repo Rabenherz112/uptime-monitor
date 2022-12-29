@@ -196,19 +196,19 @@
     "url": "$URL_VS_LIS_HETZNER01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vs-lis-hetzner-server",
-    "status": "down",
-    "uptime": "12.23%",
-    "uptimeDay": "12.23%",
-    "uptimeWeek": "12.23%",
-    "uptimeMonth": "12.23%",
-    "uptimeYear": "12.23%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.60%",
+    "uptimeDay": "2.60%",
+    "uptimeWeek": "2.60%",
+    "uptimeMonth": "2.60%",
+    "uptimeYear": "2.60%",
+    "time": 93,
+    "timeDay": 93,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {
-      "2022-12-29": 1
+      "2022-12-29": 10
     }
   }
 ]
