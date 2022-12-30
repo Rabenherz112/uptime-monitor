@@ -97,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vs-strato-01-server",
     "status": "up",
-    "uptime": "61.11%",
+    "uptime": "61.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "97.52%",
-    "uptimeYear": "61.11%",
+    "uptimeYear": "61.14%",
     "time": 123,
     "timeDay": 131,
     "timeWeek": 130,
@@ -197,18 +197,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vs-lis-hetzner-server",
     "status": "up",
-    "uptime": "2.60%",
-    "uptimeDay": "2.60%",
-    "uptimeWeek": "2.60%",
-    "uptimeMonth": "2.60%",
-    "uptimeYear": "2.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 93,
     "timeDay": 93,
     "timeWeek": 93,
     "timeMonth": 93,
     "timeYear": 93,
-    "dailyMinutesDown": {
-      "2022-12-29": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
